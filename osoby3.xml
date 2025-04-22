@@ -9,14 +9,16 @@
         <rocnik>2</rocnik>
         <email>jan.novak06@upol.cz</email>
         <pohlavi>muž</pohlavi>
-        <kredity>12</kredity>
+        <kredity>55</kredity>
+        
     </osoba>
     <osoba osCislo='R1246'>
         <jmeno>Hana</jmeno>
         <prijmeni>Holíková</prijmeni>
         <stav>nestuduje</stav>
         <obor>MATAP</obor>
-        <rocnik>1</rocnik>
+        <rocnik>2</rocnik>
         <pohlavi>žena</pohlavi>
+        <kredity>30</kredity>
     </osoba>
 </osoby>
